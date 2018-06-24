@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jcraft:jsch.agentproxy.usocket-nc:0.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.usocket-nc/0.0.6/1ae336deaeb39fd712f9134b24343094901c03a/jsch.agentproxy.usocket-nc-0.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.usocket-nc/0.0.6/750d0e4c729e17c39988f76b57a4e5dca8b40738/jsch.agentproxy.usocket-nc-0.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

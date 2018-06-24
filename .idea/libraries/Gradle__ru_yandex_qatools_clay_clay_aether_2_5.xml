@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.yandex.qatools.clay:clay-aether:2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.clay/clay-aether/2.5/4b7497b80c1b44b2abd0d78b83f5eba9a664352e/clay-aether-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.clay/clay-aether/2.5/8ffe243e6eddbb8428ea12082fef439489cea82f/clay-aether-2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

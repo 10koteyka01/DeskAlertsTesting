@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.plugins:maven-jxr-plugin:2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.plugins/maven-jxr-plugin/2.5/14ace45746a3e73040ef30cf23c205a0b4e0b092/maven-jxr-plugin-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.plugins/maven-jxr-plugin/2.5/bf7d723386c422d8a0aa1f6875d30a23cd6c3ffe/maven-jxr-plugin-2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

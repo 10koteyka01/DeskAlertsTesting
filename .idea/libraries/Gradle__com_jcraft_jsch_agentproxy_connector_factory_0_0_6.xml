@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jcraft:jsch.agentproxy.connector-factory:0.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.connector-factory/0.0.6/250ab907c35a1777e70d54038086e84855d74aea/jsch.agentproxy.connector-factory-0.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch.agentproxy.connector-factory/0.0.6/4d5930829550cecd5deee0bded739a645aa7047f/jsch.agentproxy.connector-factory-0.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1529853713946" stop="1529853722505" version="1.4.24.RC3" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>AuthorisationTest</name>
+    <test-cases>
+        <test-case start="1529853714002" stop="1529853722285" status="passed">
+            <name>myFirstTest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Kot"/>
+                <label name="thread" value="12220@Kot.Test worker(11)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

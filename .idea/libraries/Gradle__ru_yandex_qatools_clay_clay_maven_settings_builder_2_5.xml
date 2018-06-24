@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.yandex.qatools.clay:clay-maven-settings-builder:2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.clay/clay-maven-settings-builder/2.5/19a4d328760aa94fc9ece86171b80f557e510696/clay-maven-settings-builder-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.clay/clay-maven-settings-builder/2.5/a502f22e19bd3679e83bce34c295e96dce4a2312/clay-maven-settings-builder-2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

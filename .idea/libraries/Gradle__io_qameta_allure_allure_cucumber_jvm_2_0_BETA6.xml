@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.qameta.allure:allure-cucumber-jvm:2.0-BETA6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-cucumber-jvm/2.0-BETA6/c32faad0d159deac5d08268a2e158b3a8100cf71/allure-cucumber-jvm-2.0-BETA6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-cucumber-jvm/2.0-BETA6/e88b602f5495eb5d24d18d1a7f55d628ca529689/allure-cucumber-jvm-2.0-BETA6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
