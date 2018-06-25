@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kirlionik:allure-cucumber-plugin:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kirlionik/allure-cucumber-plugin/1.0.2/e4efb09707fb22845a744cff6c070f423bf32148/allure-cucumber-plugin-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kirlionik/allure-cucumber-plugin/1.0.2/e1aee78dfaa3debdefa8f3b6ff6b4e86ec36ea66/allure-cucumber-plugin-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
