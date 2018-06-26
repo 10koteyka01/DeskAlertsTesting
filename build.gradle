@@ -32,6 +32,13 @@ dependencies {
     compile group: 'io.qameta.allure', name: 'allure-cucumber-jvm', version: '2.0-BETA6'
 // https://mvnrepository.com/artifact/com.github.kirlionik/allure-cucumber-plugin
     compile group: 'com.github.kirlionik', name: 'allure-cucumber-plugin', version: '1.0.2'
+// https://mvnrepository.com/artifact/com.github.samueltbrown/gradle-cucumber-plugin
+    compile group: 'com.github.samueltbrown', name: 'gradle-cucumber-plugin', version: '0.5'
+// https://mvnrepository.com/artifact/info.cukes/cucumber-java
+    compile group: 'info.cukes', name: 'cucumber-java', version: '1.2.5'
+// https://mvnrepository.com/artifact/io.cucumber/cucumber-jvm
+    compile group: 'io.cucumber', name: 'cucumber-jvm', version: '3.0.2', ext: 'pom'
+
 }
 
 buildscript {
